@@ -1,0 +1,9 @@
+Library/
+Temp/
+[Bb]uild/
+[Bb]uilds/
+**/_*
+.vscode
+*.sln
+*.csproj
+obj/
